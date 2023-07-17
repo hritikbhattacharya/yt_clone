@@ -15,7 +15,7 @@ const Navbar = () => {
           />
         </div>
 
-        <div>
+        <div className="hidden md:block">
           <img
             src="profile.png"
             alt="Profile Pic"
